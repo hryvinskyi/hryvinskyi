@@ -27,6 +27,6 @@ I'm a Software Engineer passionate about building scalable and efficient solutio
 
 #### 🌍 About Me
  - 🔭 Currently working with Magento 2
- - 🏗️ Exploring Docker, Kubernetes, and modern web technologies
+ - 🏗️ Exploring Docker, Kubernetes, Swoole and modern web technologies
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hryvinskyi)
